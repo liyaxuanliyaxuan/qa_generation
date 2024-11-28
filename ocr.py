@@ -4,7 +4,7 @@ import os
 from pdf2image import convert_from_path
 
 # OpenAI API Key
-api_key = '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'
+api_key = ''
 
 # Function to encode the image
 def encode_image(image_path):

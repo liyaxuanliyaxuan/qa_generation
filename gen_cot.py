@@ -8,7 +8,7 @@ import tiktoken
 from prompt import cot_prompt
 
 # OpenAI API密钥
-api_key = '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'
+api_key = ''
 
 # 初始化OpenAI客户端
 client = OpenAI(api_key=api_key)
